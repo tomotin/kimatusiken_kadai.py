@@ -1,0 +1,1 @@
+# kimatusiken_kadai.py
